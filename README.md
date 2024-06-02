@@ -1,3 +1,5 @@
+Figma link: https://www.figma.com/design/OkMAkJvpdiy1QHBnUU0c7K/App-Landing-Page-Finance-Bank-Money-(Community)-(Copy)?node-id=0-1&t=NQpMsGF08RYasUZY-0
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
